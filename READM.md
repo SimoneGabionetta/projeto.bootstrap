@@ -1,6 +1,6 @@
 # Projeto Meteora
 
-![Meteora](./assets/banner1-desktop.png)
+![Meteora](./assets/imgs/banner1-desktop.png)
 
 Projeto  e-commerce voltado para vestuários e acessórios.
 
@@ -24,13 +24,13 @@ Projeto  e-commerce voltado para vestuários e acessórios.
 
 ## Layout 💻
 
-![Catálogo de produtos](./assets/categorias%20e%20sub.png)
+![Catálogo de produtos](./assets/imgs/categorias%20e%20sub.png)
 
-![Categorias e subcategorias](./assets/categorias.png)
+![Categorias e subcategorias](./assets/imgs/categorias.PNG)
 
-![Filtros de Pesquisa](./assets/pesquisa.png)
+![Filtros de Pesquisa](./assets/imgs/pesquisa.png)
 
-![Facilidades](./assets/facilidades.png)
+![Facilidades](./assets/imgs/facilidades.png)
 
 ![Área de registro](./assets/registro.png)
 
@@ -65,7 +65,7 @@ $npm run start
 ## Autores 
 
 
-<img src= "./assets/img.jpg" style="border-radius: 50%; border: 2px solid black;" >
+<img src= "./assets/imgs/img.jpg" alt="imagem-Simone" style="border-radius: 50%; border: 2px solid black;" >
 
 
 [Linkedin](https://www.linkedin.com/in/smgabionetta/)
